@@ -26,6 +26,7 @@
     "express": "^4.16.4",
     "http": "^0.0.1-security",
     "lodash.debounce": "^4.0.8",
+    "lodash.throttle": "^4.1.1",
     "mongoose": "^5.9.17",
     "morgan": "^1.9.1",
     "socket.io": "^2.3.0"
